@@ -1,0 +1,6 @@
+com\cp\guru99\testcases\HomePageUICheck.class
+com\cp\guru99\testcases\LoginPageUICheck.class
+com\cp\guru99\base\Base.class
+com\cp\guru99\testcases\HomePageTitleCheck.class
+com\cp\guru99\testcases\LoginPageTitleCheck.class
+com\cp\guru99\testcases\PageLogin.class
